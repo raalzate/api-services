@@ -1,0 +1,5318 @@
+{"cursos":[
+  {
+    "code": 100001,
+    "name": "ETICA (PARA PREGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100003,
+    "name": "PSICOLOGIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100006,
+    "name": "SOCIOLOGIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100007,
+    "name": "ANTROPOLOGIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100101,
+    "name": "EPISTEMOLOGIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100103,
+    "name": "METODOLOGIA DE LA INVESTIGACION",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100104,
+    "name": "TECNICAS DE INVESTIGACION",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100105,
+    "name": "ESTADISTICA DESCRIPTIVA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100108,
+    "name": "SEMINARIO DE INVESTIGACION",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100201,
+    "name": "HERRAMIENTAS TELEMATICAS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100401,
+    "name": "METODOS NUMERICOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100402,
+    "name": "PROBABILIDAD",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100403,
+    "name": "INFERENCIA ESTADISTICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100404,
+    "name": "PROGRAMACION LINEAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100408,
+    "name": "ALGEBRA LINEAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100410,
+    "name": "CALCULO DIFERENCIAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100411,
+    "name": "CALCULO INTEGRAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100412,
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100413,
+    "name": "FISICA GENERAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100414,
+    "name": "FISICA ELECTRONICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100416,
+    "name": "QUIMICA ORGANICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100500,
+    "name": "FUNDAMENTOS DE ADMINISTRACION",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 100504,
+    "name": "FUNDAMENTOS DE MERCADEO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 101001,
+    "name": "CONTRATACION PUBLICA Y PRIVADA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 101006,
+    "name": "DIPLOMADO DE PROFUNDIZACIÓN EN PROSPECTIVA ESTRATÉGICA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 101007,
+    "name": "DIPLOMADO DE PROFUNDIZACI?N EN GERENCIA DEL TALENTO HUMANO",
+    "credits": "Curso Metodológico de 10 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102002,
+    "name": "PLANEACION ESTRATEGICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102003,
+    "name": "FUNDAMENTOS DE ECONOMIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102004,
+    "name": "CONTABILIDAD",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102007,
+    "name": "MATEMATICA FINANCIERA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102010,
+    "name": "MICROECONOMIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102011,
+    "name": "LEGISLACION COMERCIAL Y TRIBUTARIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102012,
+    "name": "GESTION DE PERSONAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102014,
+    "name": "PROYECTO DE GRADO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102015,
+    "name": "COSTOS Y PRESUPUESTOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102016,
+    "name": "METODOS DETERMINISTICOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102017,
+    "name": "MACROECONOMIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102019,
+    "name": "TEORIAS CONTEMPORANEAS DE ADMINISTRACION",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102020,
+    "name": "ECONOMIA SOLIDARIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102021,
+    "name": "GESTION AMBIENTAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102022,
+    "name": "ADMINISTRACION FINANCIERA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102023,
+    "name": "COMERCIO Y NEGOCIOS INTERNACIONALES(COMERCIO INTERNACIONAL)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102024,
+    "name": "DESARROLLO DE HABILIDADES DE NEGOCIACION",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102025,
+    "name": "DIAGNOSTICO EMPRESARIAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102026,
+    "name": "JUEGO GERENCIAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102027,
+    "name": "OPCION DE GRADO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102028,
+    "name": "INDUCCION A LA EMPRESA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102029,
+    "name": "INICIATIVA EMPRESARIAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102030,
+    "name": "ORGANIZACION Y METODOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102031,
+    "name": "LEGISLACION LABORAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102033,
+    "name": "ADMINISTRACION PUBLICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102034,
+    "name": "AUTODESARROLLO GERENCIAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102035,
+    "name": "DESARROLLO ORGANIZACIONAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102038,
+    "name": "FINANZAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102039,
+    "name": "GEOGRAFIA ECONOMICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102045,
+    "name": "INVESTIGACION DE MERCADOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102048,
+    "name": "MERCADEO ESTRATEGICO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102049,
+    "name": "MERCADEO Y SERVICIO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102053,
+    "name": "PROSPECTIVA ESTRATEGICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102054,
+    "name": "PSICOLOGIA ORGANIZACIONAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102056,
+    "name": "SOCIOLOGIA ORGANIZACIONAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102058,
+    "name": "DISENO DE PROYECTOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102059,
+    "name": "EVALUACION DE PROYECTOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102060,
+    "name": "PROYECTO DE GRADO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102070,
+    "name": "BASE DE DATOS DISTRIBUIDAS",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102501,
+    "name": "SISTEMATIZACION Y AUTOMATIZACION DE LA PRODUCCION",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102502,
+    "name": "PROCESOS INDUSTRIALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102503,
+    "name": "PROSPECTIVA TECNOLOGICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102504,
+    "name": "DISEÑO DE PROCESOS PRODUCTIVOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102505,
+    "name": "SALUD OCUPACIONAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102506,
+    "name": "LOGISTICA INDUSTRIAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102508,
+    "name": "ADMINISTRACION DE PROCESOS PRODUCTIVOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102598,
+    "name": "INTERVENCION PSICOSOCIAL EN LA FAMILIA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102601,
+    "name": "LOGISTICA COMERCIAL",
+    "credits": "Curso Teórico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102602,
+    "name": "PLANEACION COMERCIAL",
+    "credits": "Curso Teórico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102603,
+    "name": "PUBLICIDAD",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102604,
+    "name": "PSICOLOGIA DEL CONSUMIDOR",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102606,
+    "name": "PROMOCION DE VENTAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102607,
+    "name": "COMPRAS Y SUMINISTROS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102608,
+    "name": "DIRECCION DE VENTAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102609,
+    "name": "SERVICIO AL CLIENTE",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102610,
+    "name": "DISTRIBUCION COMERCIAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102702,
+    "name": "TECNOLOGIA PECUARIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102703,
+    "name": "PLANEACION Y ORGANIZACION DE EMPRESAS AGROPECUARIAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102704,
+    "name": "MANEJO DE PRODUCTOS PECUARIOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102706,
+    "name": "AGROECOLOGIA(ADMINISTRACION)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102707,
+    "name": "MERCADEO AGROPECUARIO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102801,
+    "name": "ADMINISTRACION DE MATERIALES",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102802,
+    "name": "ADMINISTRACION DE PERSONAL DE OBRAS CIVILES  Y CONSTRUCCIONES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102804,
+    "name": "PROGRAMACION, COSTOS Y PRESUPUESTOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102806,
+    "name": "ADMINISTRACION INMOBILIARIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102901,
+    "name": "SISTEMAS Y SERVICIOS DE TRANSPORTES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102902,
+    "name": "TRANSPORTE POR CARRETERA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102903,
+    "name": "TRANSPORTE AEREO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102905,
+    "name": "TRANSPORTE FERREO",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102951,
+    "name": "TEORIA ECONOMICA DE LA COOPERACION",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102952,
+    "name": "ORGANIZACION COMUNITARIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102953,
+    "name": "ORGANIZACION ASOCIATIVA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102954,
+    "name": "GESTION LOCAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102955,
+    "name": "EMPRESAS ASOCIATIVAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 102956,
+    "name": "LEGISLACION ASOCIATIVA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 103001,
+    "name": "APROVECHAMIENTO DE SUBPRODUCTOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 103300,
+    "name": "LOGICA FORMAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 103350,
+    "name": "PRIMEROS AUXILIOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 103380,
+    "name": "ENSAMBLE Y MANTENIMIENTO DE COMPUTADORES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 103400,
+    "name": "ZOOCRIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 104001,
+    "name": "PROYECTO DE GRADO",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 104002,
+    "name": "GESTION DE LOS COSTOS DEL PROYECTO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 104003,
+    "name": "SISTEMAS DE INFORMACI",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 104004,
+    "name": "GESTI",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 104005,
+    "name": "GESTI",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 104007,
+    "name": "INGENIER",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 104561,
+    "name": "METODOS PROBABILISTICOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 106000,
+    "name": "PLAN DE NEGOCIOS",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 106001,
+    "name": "NEGOCIACION",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 106050,
+    "name": "E-BUSSINESS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 106052,
+    "name": "MARKETING INTERNACIONAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 106054,
+    "name": "PLANEACION PROSPECTIVA Y ESTRATEGIA DE MARKETING",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107027,
+    "name": "PYMES Y CORPORACIONES EN CONTEXTOS DE GLOBALIDAD",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107028,
+    "name": "LEGISLACION Y ENTORNO COMPETITIVO EN CONTEXTOS GLOBALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107029,
+    "name": "ECONOMIA Y FINANZAS GLOBALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107030,
+    "name": "MERCADOS DE CAPITALES,RIESGOS Y COBERTURAS EN AMBITOS MUNDIALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107031,
+    "name": "LIDERAZGO ORIENTADO A LA COMPETITIVIDAD Y EL DESARROLLO HUMANO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107032,
+    "name": "MODELOS Y DISEÑOS DE ORGANIZACIONDES GLOBALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107033,
+    "name": "PENSAMIENTO SISTEMICO Y DISRUPCION PARA EL DESARROLLO ORGANIZACIONAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107034,
+    "name": "PROSPECTIVA ORGANIZACIONAL Y ESTRATEGIA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107035,
+    "name": "INTELIGENCIA COMPETITIVA Y GESTION TECNOLOGICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107036,
+    "name": "MERCADEO LOGISTICA Y OPERACIONES EN EL ORDEN MUNDIAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107037,
+    "name": "CADENAS PRODUCTIVAS, ASOCIATIVIDAD Y SOLIDARIDAD",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107038,
+    "name": "ORGANIZACIONES CIUDADANAS Y RESPONSABILIDAD SOCIAL PROYECTADAS A LO GLOBAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107039,
+    "name": "LEGISLACION FINANCIERA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107042,
+    "name": "PLANEACION, NEGOCIACION FINANCIERA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107043,
+    "name": "RELACIONES LABORALES, LEGISLACION LABORAL Y NEGOCIACION",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107044,
+    "name": "SISTEMAS DE COMPENSACION Y DE INCENTIVOS",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107045,
+    "name": "GESTION DEL EMPRENDIMIENTO Y POR COMPETENCIAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107046,
+    "name": "INTELIGENCIA COLECTIVA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107047,
+    "name": "INVESTIGACION DE MERCADOS***",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107050,
+    "name": "IMAGEN CORPORATIVA PLAN DE MERCADEO Y PLAN DE MEDIOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107052,
+    "name": "COMERCIO Y DISTRIBUCION INTERNACIONAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107056,
+    "name": "DOCENCIA Y ACADEMIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107057,
+    "name": "GESTION DE LA INVESTIGACION Y EL DESARROLLO EDUCATIVO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107058,
+    "name": "COMUNIDAD, ACADEMIA, ESTADO Y EMPRESA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 107060,
+    "name": "COMPETENCIAS COMUNICATIVAS (ESP. GESTION PUBLICA)",
+    "credits": "Curso Teórico de 1 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 108001,
+    "name": "GESTION DE STAKEHOLDERS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 108002,
+    "name": "DISEÑO Y EVALUACION INTEGRAL DE PROYECTOS",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109101,
+    "name": "ORGANIZACIONES PUBLICAS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109105,
+    "name": "SEMINARIO DE INVESTIGACION EN GESTION PUBLICA (ESP. GESTION PUBLICA)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109107,
+    "name": "ESTRUCTURA DEL ESTADO ",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109108,
+    "name": "PARTICIPACION CIUDADANA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109120,
+    "name": "PLANEACION DEL DESARROLLO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109121,
+    "name": "E-GOVERNMENT",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109122,
+    "name": "GESTION HUMANA ",
+    "credits": "Curso Metodológico de 1 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109123,
+    "name": "CONTRATACION ESTATAL",
+    "credits": "Curso Metodológico de 1 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109124,
+    "name": "POLITICAS PUBLICAS",
+    "credits": "Curso Metodológico de 1 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109132,
+    "name": "ADMINISTRACION DEL SISTEMA PUBLICO DE SEGURIDAD SOCILA COLOMBIANA",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109133,
+    "name": "GESTION PUBLICA Y DERECHO ADMINISTRATIVO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 109134,
+    "name": "GESTION PUBLICA Y DERECHO DISCIPLINARIO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 111001,
+    "name": "LEGISLACION EMPRESARIAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 111002,
+    "name": "PLANEACION, PROSPECTIVA Y ESTRATEGICA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 112001,
+    "name": "FUNDAMENTOS EN GESTION INTEGRAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 112002,
+    "name": "PENSAMIENTO ADMINISTRATIVO",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 113001,
+    "name": "CONTABILIDAD, COSTOS Y PRESUPUESTOS",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 122001,
+    "name": "MARKETING INTERNACIONAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 150001,
+    "name": "FUNDAMENTOS Y GENERALIDADES DE INVESTIGACIÓN",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 151009,
+    "name": "BIOLOGÍA CELULAR Y MOLECULAR",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 200003,
+    "name": "SISTEMA ECOLOGICO ETOLOGICO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 200004,
+    "name": "EVALUACION IN SITU DE PROCESOS SOSTENIBLES",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 200005,
+    "name": "APLICACIONES INFORMATICAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 200012,
+    "name": "NUTRICION ANIMAL SOSTENIBLE",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 200051,
+    "name": "LABORATORIO DE NUTRICION ANIMAL SOSTENIBLE",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 200602,
+    "name": "COMUNICACION ALTERNATIVA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 200608,
+    "name": "TEORIA DE LAS DECISIONES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 200609,
+    "name": "LENGUAJE DE MODELADO UNIFICADO UML",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 200610,
+    "name": "HERRAMIENTAS DIGITALES PARA LA GESTION DEL CONOCIMIENTO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 200611,
+    "name": "PENSAMIENTO LOGICO Y MATEMATICO",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 200612,
+    "name": "FUNDAMENTOS DE MATEMÁTICAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201000,
+    "name": "TERMODINAMICA AVANZADA(POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201002,
+    "name": "ANALISIS NUMERICO (POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201004,
+    "name": "METODOS MATEMATICOS(POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201005,
+    "name": "FENOMENOS DE TRANSPORTE(POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201010,
+    "name": "BIOINGENIERIA (POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201014,
+    "name": "PROYECTO DE GRADO (ING. DE SISTEMAS)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201015,
+    "name": "TERMODINAMICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201030,
+    "name": "EVALUACION ECOLOGICA DE PROYECTOS(POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201062,
+    "name": "REFRIGERACION APLICADA A LA INDUSTRIA DE ALIMENTOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201101,
+    "name": "BIOLOGIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201102,
+    "name": "QUIMICA GENERAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201103,
+    "name": "BIOQUIMICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201105,
+    "name": "GENETICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201106,
+    "name": "INTRODUCCION A LA MORFOFISIOLOGIA ANIMAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201107,
+    "name": "MORFOFISIOLOGIA ANIMAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201108,
+    "name": "MEJORAMIENTO ANIMAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201110,
+    "name": "REPRODUCCION ANIMAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201111,
+    "name": "NUTRICION Y ALIMENTACION",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201202,
+    "name": "PASTOS Y FORRAJES",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201203,
+    "name": "SALUD ANIMAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201205,
+    "name": "SISTEMA DE PRODUCCION PORCINO",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201207,
+    "name": "SISTEMA DE PRODUCCION BOVINO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201416,
+    "name": "VISUAL BASIC BASICO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201417,
+    "name": "SISTEMAS DIGITALES BASICOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201418,
+    "name": "ANALISIS DE CIRCUITOS DC",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201419,
+    "name": "ELECTRONICA BASICA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201420,
+    "name": "DIBUJO TECNICO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201421,
+    "name": "FARMACOGNOSIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201422,
+    "name": "HIGIENE Y SEGURIDAD INDUSTRIAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201423,
+    "name": "ANALISIS DE CIRCUITOS AC",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201424,
+    "name": "ELECTROMAGNETISMO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201425,
+    "name": "AMPLIFICADORES",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201455,
+    "name": "INSTRUMENTACION Y MEDICIONES",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201495,
+    "name": "DIPLOMADO PROFUNDIZACIÓN EN COMPUTACIÓN MÓVIL (OPCIÓN DE TRABAJO DE GRADO)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201501,
+    "name": "NUTRICION AVANZADA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201502,
+    "name": "REPRODUCCION AVANZADA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201503,
+    "name": "MEJORAMIENTO AVANZADO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201504,
+    "name": "MICROBIOLOGIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201508,
+    "name": "SISTEMAS DE PRODUCCION ACUICOLA (PISCICULTURA)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201509,
+    "name": "MANEJO Y PROCESAMIENTO DE LECHE",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201510,
+    "name": "POLITICA AGRARIA Y AMBIENTAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201511,
+    "name": "MANEJO Y PROCESAMIENTO DE CARNES",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201512,
+    "name": "GESTION EMPRESARIAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201518,
+    "name": "SISTEMAS DE PRODUCCION APICOLA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201520,
+    "name": "TEORIA GENERAL DE SISTEMAS(AGRARIAS POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201521,
+    "name": "SISTEMA ECOLOGICO DE PRODUCCION BOVINA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201522,
+    "name": "SISTEMA ECOLOGICO DE PRODUCCION DE ESPECIES MENORES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201527,
+    "name": "SISTEMAS DINAMICOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201529,
+    "name": "BIOTECNOLOGIA 1",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201530,
+    "name": "SISTEMAS DE PRODUCCION CUNICOLA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201540,
+    "name": "PARASITOLOGIA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201560,
+    "name": "PEQUEÑOS RUMIANTES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201570,
+    "name": "BIENESTAR ANIMAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201602,
+    "name": "BIODIVERSIDAD",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201604,
+    "name": "FISICOQUIMICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201612,
+    "name": "EDAFOLOGIA Y FERTILIDAD",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201614,
+    "name": "VIVEROS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201616,
+    "name": "RIEGOS Y DRENAJES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201617,
+    "name": "SISTEMAS AGROFORESTALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201618,
+    "name": "HORTICULTURA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201619,
+    "name": "MAQUINARIA Y MECANIZACION AGRICOLA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201620,
+    "name": "TOPOGRAFIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201621,
+    "name": "FRUTALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201624,
+    "name": "SISTEMAS DE AGROINDUSTRIA RURAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201628,
+    "name": "ECONOMIA AGRARIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201710,
+    "name": "BOTANICA ECONOMICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201711,
+    "name": "FISIOLOGIA VEGETAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201712,
+    "name": "AGROFORESTERIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201720,
+    "name": "APROVECHAMIENTO AGROFORESTAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201722,
+    "name": "FOTOINTERPRETACION Y MAPIFICACION",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 201724,
+    "name": "PLANIFICACION TERRITORIAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 202015,
+    "name": "QUIMICA Y ANALISIS DE LOS ALIMENTOS ",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 202025,
+    "name": "SISTEMAS DE GESTION AMBIENTAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 202030,
+    "name": "SEMINARIO DE INVESTIGACION (APREND. AUTONOMO)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 202050,
+    "name": "SISTEMAS DE ENSE?ANZA PARA UN APRENDIZAJE SIGNIFICATIVO",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 202131,
+    "name": "DIPLOMADO DE PROFUNDIZACI?N EN INOCUIDAD ALIMENTARIA (OPCI?N DE TRABAJO DE GRADO)",
+    "credits": "Curso Metodológico de 10 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203015,
+    "name": "MICROBIOLOGIA (POST GRADO)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203016,
+    "name": "VIROLOGIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203017,
+    "name": "BIOLOGIA CELULAR Y MOLECULAR",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203018,
+    "name": "BIOMETRIA Y DISE?O EXPERIMENTAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203019,
+    "name": "BIOTECNOLOGIA II (POST GRADO)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203021,
+    "name": "CULTURA POLITICA(POSTGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203022,
+    "name": "ORGANISMOS TRANSGENICOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203023,
+    "name": "CITOGENETICA APLICADA AL MEJORAMIENTO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203024,
+    "name": "CULTIVO DE TEJIDOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203029,
+    "name": "GESTION TECNOLOGICA AGROPECUARIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203032,
+    "name": "COMPETENCIAS COMUNICATIVAS (ESPECIALIZACIONES)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203033,
+    "name": "CATEDRA UNADISTA (ESPECIALIZACIONES)",
+    "credits": "Curso Teórico de 1 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203035,
+    "name": "INTRODUCCIóN A LA INGENIERíA (ELECTRóNICA)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203036,
+    "name": "SOFTWARE PARA INGENIERIA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203038,
+    "name": "INSTRUMENTACION ",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203042,
+    "name": "SEñALES Y  SISTEMAS ",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203043,
+    "name": "CONTROL OPTIMO",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203046,
+    "name": "CONTROL PREDICTIVO Y ADAPTATIVO",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203052,
+    "name": "TELECONTROL",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203058,
+    "name": "TEORIA ELECTROMAGNETICA Y ONDAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203092,
+    "name": "DIPLOMADO DE PROFUNDIZACI?N CISCO (DISE?O E IMPLEMENTACI?N DE SOLUCIONES INTEGRADAS LAN / WAN) (OPCI",
+    "credits": "Curso Teórico de 10 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 203532,
+    "name": "INTRODUCCION A LA INGENIERIA DE TELECOMUNICACIONES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 204009,
+    "name": "TRABAJO DE GRADO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204010,
+    "name": "TRABAJO DE GRADO (TECNOLOGIA DE ALIMENTOS)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204011,
+    "name": "TRABAJO DE GRADO (TECNOLOGIA INDUSTRIAL)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204012,
+    "name": "TRABAJO DE GRADO (TECNOLOGIA ELECTRONICA)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204013,
+    "name": "TRABAJO DE GRADO (TECNOLOGIA SISTEMAS)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204014,
+    "name": "TRABAJO DE GRADO(AGRARIAS TECNOLOGIA)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204015,
+    "name": "TRABAJO DE GRADO(AGRARIAS PROFESIONAL)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204016,
+    "name": "TEORIA DE SISTEMAS EN LAS ORGANIZACIONES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204017,
+    "name": "INTRODUCCION AL DESARROLLO DE SOFTWARE",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204018,
+    "name": "LOGICA PARA SOLUCION DE PROBLEMAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204019,
+    "name": "ANALISIS DE REQUISITOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204040,
+    "name": "ESTADISTICA DESCRIPTIVA (N)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204041,
+    "name": "MATEMÁTICAS DISCRETAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204580,
+    "name": "DIRECCIONAMIENTO ESTRATEGICO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 204590,
+    "name": "AUDITORIA DE MARKETING",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 205101,
+    "name": "PROYECTO DE GRADO(ELECTRONICA)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 205111,
+    "name": "ESTETICA PARA ENTORNOS VIRTUALES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 205510,
+    "name": "GESTION DE LA INFORMACION DIGITAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 205540,
+    "name": "SOFTWARE EDUCATIVO",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206001,
+    "name": "MERCADEO BASICO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206002,
+    "name": "EVALUACION DE PROYECTOS Y ANALISIS ESTADISTICOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206004,
+    "name": "INVESTIGACION DE MERCADOS(2)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206006,
+    "name": "SEMINARIO DE TRABAJO DE GRADO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206008,
+    "name": "DIRECCION COMERCIAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206009,
+    "name": "GERENCIA MERCADEO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206010,
+    "name": "PEDAGOGIAS MEDIADAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206020,
+    "name": "CIBERCULTURA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206041,
+    "name": "ESTRUCTURAS ORGANIZACIONALES FLEXIBLES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206042,
+    "name": "PENSAMIENTO ESTRATEGICO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206043,
+    "name": "MERCADEO PROSPECTIVO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206044,
+    "name": "RESPONSABILIDAD SOCIAL DE MERCADEO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206045,
+    "name": "INTELIGENCIA DE NEGOCIOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206046,
+    "name": "MEGA TENDENCIAS DEL MERCADEO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 206049,
+    "name": "INVESTIGACIÓN CUANTITATIVA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 207012,
+    "name": "EPISTEMOLOGIA DEL DISENO INVESTIGATIVO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 207014,
+    "name": "CONVIVENCIA Y EXPRESIONES CULTURALES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 207018,
+    "name": "TRABAJO DE GRADO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 207019,
+    "name": "INVESTIGACION EN IPAB(POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 207028,
+    "name": "MODELOS GERENCIALES PARA LA INNOVACIóN",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 207101,
+    "name": "MANTENIMIENTO INDUSTRIAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 207102,
+    "name": "DISEÑO INDUSTRIAL Y DE SERVICIOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 207103,
+    "name": "TORNO CAM",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 207111,
+    "name": "FRESA CAM",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 207115,
+    "name": "DIPLOMADO DE PROFUNDIZACIÓN  SUPPLY CHAIN MANAGEMENT Y LOGÍSTICA (OPCIÓN DE TRABAJO DE GRADO)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208001,
+    "name": "SISTEMAS AVANZADOS DE TRANSMISION I",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208002,
+    "name": "SISTEMAS AVANZADOS DE TRANSMISION II",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208003,
+    "name": "REDES Y SISTEMAS AVANZADOS DE TELECOMUNICACIONES I",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I"
+  },
+  {
+    "code": 208004,
+    "name": "REDES Y SISTEMAS AVANZADOS DE TELECOMUNICACIONES II",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208005,
+    "name": "GESTION DE REDES DE TELECOMUNICACIONES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208006,
+    "name": "SISTEMAS EMBEBIDOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208007,
+    "name": "INSTRUMENTACION INDUSTRIAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208008,
+    "name": "CAD AVANZADO PARA ELECTRONICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208016,
+    "name": "SISTEMAS DE COMUNICACION",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208017,
+    "name": "REDES Y SERVICIOS TELEMATICOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208018,
+    "name": "MICROONDAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208019,
+    "name": "ANTENAS Y PROPAGACION",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208020,
+    "name": "LEGISLACION DE TELECOMUNICACIONES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208021,
+    "name": "COMUNICACIONES INDUSTRIALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208022,
+    "name": "TELETRAFICO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208030,
+    "name": "INTRODUCCION A LA TECNOLOGIA EN AUDIO (E-LEARNING)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208031,
+    "name": "ENTRENAMIENTO AUDITIVO (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208032,
+    "name": "SISTEMAS DE AUDIO (E-LEARNING)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208033,
+    "name": "MIDI Y SECUENCIACION (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 208034,
+    "name": "EDICION Y MEZCLA DE AUDIO (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 208035,
+    "name": "AUDIO DIGITAL (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208036,
+    "name": "DISEÑO SONORO (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208037,
+    "name": "TECNICAS DE GRABACION (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208038,
+    "name": "ELECTROACUSTICA APLICADA A LA MUSICA (E-LEARNING)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 208039,
+    "name": "MANTENIMIENTO DE SISTEMAS DE AUDIO (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208040,
+    "name": "INSTALACIONES DE SONORIZACION (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208041,
+    "name": "TRABAJO DE GRADO APLICADO (E-LEARNING)",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208042,
+    "name": "ACUSTICA Y FUNDAMENTOS DEL SONIDO (E-LEARNING)",
+    "credits": "Curso Teórico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208043,
+    "name": "ANALISIS DE CIRCUITOS E INSTRUMENTACION (E-LEARNING)",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208044,
+    "name": "ELECTRONICA ANALOGA (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208046,
+    "name": "ALGEBRA LINEAL (E-LEARNING)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208051,
+    "name": "INTRODUCCIÓN A LA INGENIERÍA DE TELECOMUNICACIONES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208052,
+    "name": "TRATAMIENTO DIGITAL DE SEÑALES",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 208055,
+    "name": "LABVIEW",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 209001,
+    "name": "BIOMATERIALES",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 209002,
+    "name": "BIOTECNOLOGíA ALIMENTARIA ",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 209005,
+    "name": "DISEñO EXPERIMENTAL PARA LA OPTIMIZACIóN DE PROCESOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 209007,
+    "name": "REOLOGíA DE ALIMENTOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 209008,
+    "name": "PROCESOS TéRMICOS EN LA INDUSTRIA DE ALIMENTOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210101,
+    "name": "PROYECTO DE GRADO (ESP. GESTION PROYECTOS)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210102,
+    "name": "SISTEMAS DE INFORMACION PARA LA GESTION DE PROYECTOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210103,
+    "name": "CONTABILIDAD FINANCIERA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210104,
+    "name": "INICIATIVA Y DESARROLLO EMPRESARIAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210105,
+    "name": "FUNDAMENTOS LEGALES",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210106,
+    "name": "ADMINISTRACION Y GESTION DE PROYECTOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210107,
+    "name": "CONSTRUCCION DE INDICADORES Y METODOS DE ANALISIS PARA LA EVALUACION DE PROYECTOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210108,
+    "name": "MATEMATICAS FINANCIERAS PARA PROYECTOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210109,
+    "name": "COSTOS Y PRESUPUESTOS PARA PROYECTOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210110,
+    "name": "ANALISIS ECONOMICO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210113,
+    "name": "EVALUACION ECONOMICA DEL IMPACTO AMBIENTAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210114,
+    "name": "GERENCIA Y AUDITORIA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210115,
+    "name": "TRABAJO DE GRADO (QU?MICA)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 210116,
+    "name": "QUIMICA COMPUTACIONAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 211610,
+    "name": "TRANSFERENCIA DE MOMENTUM (ING ALIMENTOS - N)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 211611,
+    "name": "TRANSFERENCIA DE CALOR (ING ALIMENTOS - N)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 211612,
+    "name": "TRANSFERENCIA DE MASA (ING ALIMENTOS - N)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 211613,
+    "name": "PROCESOS DE LACTEOS ",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 211614,
+    "name": "PROCESOS DE CARNICOS ",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 211615,
+    "name": "PROCESOS DE CEREALES Y OLEAGINOSAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 211616,
+    "name": "PROCESOS DE FRUVER",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 211617,
+    "name": "DISE?O DE PLANTAS DE ALIMENTOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 211618,
+    "name": "MAQUINARIA Y EQUIPOS DE ALIMENTOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 211619,
+    "name": "BIOTECNOLOGIA ALIMENTARIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 211621,
+    "name": "PROYECTO DE GRADO (ING ALIMENTOS - N)",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 211622,
+    "name": "ESTADISTICA Y PROBABILIDAD",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 211624,
+    "name": "MICROBIOLOGIA DE LOS ALIMENTOS ",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 213956,
+    "name": "TECNOLOGIA DEL CAFE",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150502,
+    "name": "ELECTRICIDAD Y ELECTROMAGNETISMO (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150503,
+    "name": "SISTEMAS DIGITALES (E-LEARNING)",
+    "credits": "Curso Teórico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150504,
+    "name": "SISTEMAS DE COMUNICACION (E-LEARNING)",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150505,
+    "name": "INTRODUCCION TECNOLOGIA DE REDES (E-LEARNING)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150506,
+    "name": "FUNDAMENTOS DE REDES (MOD1 - CISCO)(E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150507,
+    "name": "PRINCIPIO DE ENRUTAMIENTO (MOD2 - CISCO) (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150508,
+    "name": "ENSAMBLE Y MANTENIMIENTO DE COMPUTADORES (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 2150509,
+    "name": "REDES DE ACCESO BASICO (E-LEARNING)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150510,
+    "name": "ALGORITMOS Y PROGRAMACION (E-LEARNING)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150511,
+    "name": "FUNDAMENTOS DE PROGRAMACION C++ (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150512,
+    "name": "PROGRAMACION DE PLC (E-LEARNING)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150513,
+    "name": "REDES INDUSTRIALES AVANZADAS (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150515,
+    "name": "EMPRENDIMIENTO INDUSTRIAL (E-LEARNING)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 2150517,
+    "name": "PROYECTO DE DESARROLLO TECNICO Y EMPRESARIAL I (E-LEARNING)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 215080,
+    "name": "TECNOLOGIA DE POSCOSECHA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 221120,
+    "name": "HERRAMIENTAS TELEINFORMATICAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 222719,
+    "name": "INTRODUCCION AL SONIDO EN VIVO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 223156,
+    "name": "ESTANDARIZACION DE PROCESOS EN LA INDUSTRIA DE ALIMENTOS ",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 229101,
+    "name": "CAD PARA TELECOMUNICACIONES",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 231011,
+    "name": "EDICION EN MASTERIZACION (E-LEARNING)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 232014,
+    "name": "SANIDAD Y LEGISLACION ALIMENTARIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 232015,
+    "name": "TECNOLOGIA DE OLEAGINOSAS",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 232016,
+    "name": "TECNOLOGIA DE CEREALES",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 232017,
+    "name": "INTRODUCCION A LA CIENCIAS Y TECNOLOGIA DE ALIMENTOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 232018,
+    "name": "SISTEMAS DE CALIDAD Y SEGURIDAD ALIMENTARIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 232019,
+    "name": "NUTRICION HUMANA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 232020,
+    "name": "TRABAJO DE GRADO (TEC. ALIM)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233001,
+    "name": "FUNDAMENTOS DE SEGURIDAD INFORMATICA (POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233002,
+    "name": "MODELOS Y ESTÁNDARES DE SEGURIDAD INFORMÁTICA (POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233003,
+    "name": "SISTEMA DE GESTION DE SEGURIDAD INFORMÁTICA (POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233004,
+    "name": "RIESGOS Y CONTROL INFORMATICO (POSGRADO)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233005,
+    "name": "ASPECTOS ÉTICOS Y LEGALES DE LA SEGURIDAD INFORMÁTICA (POSGRADO)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233006,
+    "name": "PROYECTO DE SEGURIDAD INFORMATICA I (POSGRADO)",
+    "credits": "Curso Metodológico de 1 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233007,
+    "name": "SEGURIDAD EN SISTEMAS OPERATIVOS (POSGRADO)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233008,
+    "name": "SEGURIDAD EN APLICACIONES WEB (POSGRADO)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233009,
+    "name": "SEGURIDAD EN BASES DE DATOS (POSGRADO)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233010,
+    "name": "SEGURIDAD EN REDES (POSGRADO)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233011,
+    "name": "CRIPTOGRAFIA (POSGRADO)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233012,
+    "name": "INFORMATICA FORENSE (POSGRADO)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233013,
+    "name": "PROYECTO DE SEGURIDAD INFORMATICA II (POSGRADO)",
+    "credits": "Curso Metodológico de 1 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233015,
+    "name": "SEGURIDAD AVANZADA EN REDES DE DATOS (POSGRADO)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 233016,
+    "name": "SEGURIDAD EN APLICACIONES M?VILES",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 242001,
+    "name": "INTRODUCCIÓN A LA TECNOLOGÍA EN LOGISTICA INDUSTRIAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 242002,
+    "name": "CAD (SPECTRA - CAM)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 242003,
+    "name": "FUNDAMENTOS DE SUPPLY CHAIN Y LOGISTICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 242005,
+    "name": "PROCESOS LOGISTICOS DE DISTRIBUCIÓN",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 242006,
+    "name": "DISEÑO DE ALMACENES Y MANEJO DE MATERIALES",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 242007,
+    "name": "PROCESOS LOGISTICOS DE PRODUCCIÓN",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 242009,
+    "name": "PROCESO DE TORNEADO CAM",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 243001,
+    "name": "INTRODUCCION A LA AUTOMATIZACION",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 243002,
+    "name": "PROGRAMACION",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 243003,
+    "name": "ANALISIS DE CIRCUITOS",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 243004,
+    "name": "ELECTRONICA DIGITAL",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 243006,
+    "name": "ELECTRONICA ANALOGA",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 243007,
+    "name": "AUTOMATAS PROGRAMABLES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 243008,
+    "name": "CONTROL NUMERICO COMPUTARIZADO (CNC)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 243009,
+    "name": "PROYECTO TECNOLOGICO FASE 1 (TAE)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 244001,
+    "name": "INTRODUCCION A LA TECNOLOGIA DE SISTEMAS DE COMUNICACIONES INLAMBRICAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 244003,
+    "name": "PROYECTO TECNOLOGICO FASE I (TSCI)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 244007,
+    "name": "FUNDAMENTOS DE COMUNICACIONES INALÁMBRICAS",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 250110,
+    "name": "NUTRICION Y TOXICOLOGIA ALIMENTARIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 250550,
+    "name": "LINUX",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 252828,
+    "name": "CURSO DE PROFUNDIZACION EN FUNDAMENTOS DE SALUD PUBLICA",
+    "credits": "Curso Teórico de 10 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 256593,
+    "name": "EMPRENDIMIENTO INDUSTRIAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 256594,
+    "name": "LOGISTICA INTEGRAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I"
+  },
+  {
+    "code": 256595,
+    "name": "ERGONOMIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 256596,
+    "name": "DISE?O DE PLANTAS INDUSTRIALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 256597,
+    "name": "GESTION DE PRODUCCION",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 256598,
+    "name": "PLANEACION Y CONTROL DE LA PRODUCCION",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 256599,
+    "name": "MATERIALES INDUSTRIALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299001,
+    "name": "CAMPOS ELECTROMAGNETICOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299002,
+    "name": "FISICA DE SEMICONDUCTORES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299003,
+    "name": "FISICA MODERNA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299004,
+    "name": "PROCESAMIENTO DIGITAL DE SEÑALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299005,
+    "name": "CONTROL ANALOGICO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299006,
+    "name": "CONTROL DIGITAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299007,
+    "name": "PROCESAMIENTO ANALOGICO DE SEÑALES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299008,
+    "name": "MICROELECTRONICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299009,
+    "name": "TELEFONIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299010,
+    "name": "MATEMATICAS ESPECIALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299011,
+    "name": "ROBOTICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299013,
+    "name": "AUTOMATIZACION INDUSTRIAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299016,
+    "name": "INSTRUMENTACION MEDICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299018,
+    "name": "SISTEMAS AVANZADOS DE CONTROL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299019,
+    "name": "ELECTRONICA INDUSTRIAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299020,
+    "name": "ELECTRONICA INDUSTRIAL AVANZADA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299210,
+    "name": "COMPUTACION GRAFICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 299310,
+    "name": "SIMULACION",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 300001,
+    "name": "DISE",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 300002,
+    "name": "ANTEPROYECTO DE INVESTIGACION",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 300250,
+    "name": "TECNOLOGIA DE POSSACRIFICIO Y POSCAPTURA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301014,
+    "name": "ESTADISTICA COMPLEJA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301015,
+    "name": "PLANEACION ALIMENTARIA NUTRICIONAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301102,
+    "name": "QUIMICA ANALITICA E INSTRUMENTAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301103,
+    "name": "BALANCE DE MATERIA Y ENERGIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301104,
+    "name": "GESTION DE CALIDAD",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301105,
+    "name": "TECNOLOGIA DE LACTEOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301106,
+    "name": "TECNOLOGIA DE CARNICOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301107,
+    "name": "TECNOLOGIA DE FRUTAS Y HORTALIZAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301117,
+    "name": "TRANSFERENCIA DE MOMENTUM",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301118,
+    "name": "EVALUACION SENSORIAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301120,
+    "name": "TELEMATICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301121,
+    "name": "REDES LOCALES BASICO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301122,
+    "name": "DISEÑOS DE SITIOS WEB",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301123,
+    "name": "MULTIMEDIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301124,
+    "name": "PENSAMIENTO DE SISTEMAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301125,
+    "name": "BASE DE DATOS AVANZADA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301126,
+    "name": "DINAMICA DE SISTEMAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301127,
+    "name": "PROGRAMACION DE SITIOS WEB",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301130,
+    "name": "INTERVENCION PSICOSOCIAL EN EL CONTEXTO EDUCATIVO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301131,
+    "name": "FILOSOFIA ETICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301136,
+    "name": "INTERVENCION PSICOSOCIAL EN EL CONTEXTO ORGANIZACIONAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301139,
+    "name": "INTERVENCION PSICOSOCIAL EN EL CONTEXTO JURIDICO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301201,
+    "name": "INGENIERIA DE PLANTAS DE ALIMENTOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301203,
+    "name": "QUIMICA DE ALIMENTOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301219,
+    "name": "TRANSFERENCIA DE CALOR",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301301,
+    "name": "ALGEBRA, TRIGONOMETRIA Y GEOMETRIA ANALITICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": "301301B",
+    "name": "ALGEBRA, TRIGONOMETRIA Y GEOMETRIA ANALITICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301302,
+    "name": "ARQUITECTURA DE COMPUTADORES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301303,
+    "name": "ALGORITMOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301304,
+    "name": "INTRODUCCION A LA PROGRAMACION",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301305,
+    "name": "ESTRUCTURAS DE DATOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301307,
+    "name": "TEORIA GENERAL DE SISTEMAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301308,
+    "name": "ANALISIS DE SISTEMAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301309,
+    "name": "DISEÑO DE SISTEMAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301330,
+    "name": "BASES DE DATOS BASICO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301332,
+    "name": "TRATAMIENTO DE AGUAS RESIDUALES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301401,
+    "name": "INGENIERIA DE LAS TELECOMUNICACIONES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301402,
+    "name": "SISTEMAS OPERATIVOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301403,
+    "name": "PROGRAMACION ORIENTADA A OBJETOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301404,
+    "name": "INGENIERIA DE SOFTWARE",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301405,
+    "name": "AUTOMATAS Y LENGUAJES FORMALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301500,
+    "name": "INTERVENCION PSICOSOCIAL EN LA COMUNIDAD",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301501,
+    "name": "DISE?O DE PROYECTOS SOCIALES",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301502,
+    "name": "TOXICOLOGIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301503,
+    "name": "FARMACOLOGIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301504,
+    "name": "LEGISLACION FARMACEUTICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301505,
+    "name": "ADMINISTRACION DE FARMACIAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301506,
+    "name": "ATENCION FARMACEUTICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301507,
+    "name": "FARMACIA HOSPITALARIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301508,
+    "name": "FARMACIA GENERAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301509,
+    "name": "PRACTICA PROFESIONAL",
+    "credits": "Curso Práctico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301510,
+    "name": "FARMACIA MAGISTRAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301520,
+    "name": "FARMACOLOGIA COMPLEMENTARIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30156,
+    "name": "DISEÑO EXPERIMENTAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301568,
+    "name": "SERVICIO COMUNITARIO",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301569,
+    "name": "EVALUACION DE SOFTWARE",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30157,
+    "name": "AGROCLIMATOLOGIA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30158,
+    "name": "INTRODUCCION A LA AGRONOMIA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30159,
+    "name": "ENTOMOLOGIA AGRICOLA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30160,
+    "name": "MANEJO Y CONSERVACION DE SUELOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30161,
+    "name": "PROPAGACION Y MICROPROPAGACION DE PLANTAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 301615,
+    "name": "AGRICULTURA BIOLOGICA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30162,
+    "name": "FITOMEJORAMIENTO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30164,
+    "name": "MANEJO DE ARVENSES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30165,
+    "name": "FITOPATOLOGIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30167,
+    "name": "POSCOSECHA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30171,
+    "name": "INTRODUCCION A LA INGENIERIA AGROFORESTAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30172,
+    "name": "HIDROLOGIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 30173,
+    "name": "SANIDAD AGROFORESTAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302060,
+    "name": "SALUD OCUPACIONAL EN LA INDUSTRIA DE ALIMENTOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302070,
+    "name": "REDES LOCALES AVANZADAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302090,
+    "name": "SISTEMAS DISTRIBUIDOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302526,
+    "name": "CAD PARA ELECTRONICA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302568,
+    "name": "FLORICULTURA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302570,
+    "name": "NUTRICION VEGETAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302571,
+    "name": "CULTIVOS DE CLIMA FRIO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302581,
+    "name": "PROYECTO DE GRADO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302582,
+    "name": "CONTROL DE CALIDAD",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302583,
+    "name": "CONSTRUYENDO COMUNIDAD",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302585,
+    "name": "FILOSOFIA EN EL AULA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302586,
+    "name": "EPISTEMOLOGIA DE LAS CIENCIAS SOCIALES",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 302589,
+    "name": "TRANSFERENCIA DE MASA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303013,
+    "name": "MANEJO DE CUENCAS HIDROGRIFICAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303016,
+    "name": "EXTENSION AGRICOLA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303018,
+    "name": "PRODUCCION Y TECNIFICACION DE SEMILLAS(AGRONOMIA)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303019,
+    "name": "MICROBIOLOGIA DE SUELOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303020,
+    "name": "SISTEMA DE PRODUCCION EQUINA(ZOOTECNIA)",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303021,
+    "name": "CULTIVOS DE CLIMA CALIDO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303022,
+    "name": "CULTIVOS DE CLIMA MEDIO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303036,
+    "name": "DENDROLOGIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303086,
+    "name": "COMUNIDAD E INDAGACION",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303090,
+    "name": "INSTALACIONES AGROFORESTALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303092,
+    "name": "FILOSOFIA POLITICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 303391,
+    "name": "TRABAJO DE GRADO LICENCIATURA EN FILOSOFIA",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 305689,
+    "name": "BIOTECNOLOGIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 305698,
+    "name": "HERBOLOGIA Y ALELOPATIA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 306598,
+    "name": "BEBIDAS FERMENTADAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 309696,
+    "name": "MICROPROCESADORES Y MICROCONTROLADORES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 310001,
+    "name": "BEBIDAS NO ALCOHOLICAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 320014,
+    "name": "PRACTICAS BASICAS PARA LA PRODUCCION DE FORRAJES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 320026,
+    "name": "PLANIFICACION Y GESTION DE LA EMPRESA GANADERA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 325689,
+    "name": "GESTION DE LA CALIDAD ALIMENTARIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 330001,
+    "name": "INTRODUCCION A LA TECNOLOGIA EN PRODUCCION ANIMAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 330002,
+    "name": "ETICA PARA LA PRODUCCION ANIMAL",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 332569,
+    "name": "PROCESOS QUIMICOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 332570,
+    "name": "MEDICION DEL TRABAJO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 332571,
+    "name": "PROCESOS DE MANUFACTURA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 332572,
+    "name": "ADMINISTRACION DE INVENTARIOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 332573,
+    "name": "GERENCIA ESTRATEGICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 332574,
+    "name": "ADMINISTRACION DE SALARIOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 334001,
+    "name": "SISTEMA METABOLICO NUTRICIONAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 334011,
+    "name": "TRABAJO DE GRADO FASE I",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 352001,
+    "name": "BIOQUIMICA METABOLICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358001,
+    "name": "INTRODUCCION A LA PROBLEMATICA Y ESTUDIO DEL AMBIENTE",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358002,
+    "name": "SISTEMAS DE ABASTECIMIENTO DE AGUA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358003,
+    "name": "SISTEMAS DE TRATAMIENTO DE AGUAS RESIDUALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358004,
+    "name": "PREPARACION Y ANALISIS DE MUESTRAS DE AGUA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358005,
+    "name": "QUIMICA INORGANICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358006,
+    "name": "BIOLOGIA AMBIENTAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358007,
+    "name": "CARACTERIZACION DE CONTAMINANTES ATMOSFERICOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358008,
+    "name": "CONTROL DE LA CONTAMINACION ATMOSFERICA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358009,
+    "name": "EPIDEMIOLOGIA AMBIENTAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358010,
+    "name": "MICROBIOLOGIA AMBIENTAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358011,
+    "name": "GESTION INTEGRAL DE RESIDUOS SOLIDOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358012,
+    "name": "SISTEMAS DE TRATAMIENTO Y DISPOSICION FINAL DE RESIDUOS SÓLIDOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358013,
+    "name": "PROPIEDADES Y CONTAMINACION DEL SUELO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358014,
+    "name": "SOCIOLOGIA AMBIENTAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358016,
+    "name": "HIGIENE Y SEGURIDAD LABORAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358017,
+    "name": "CONTROL DE LA CONTAMINACION DE ALIMENTOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358019,
+    "name": "ETICA AMBIENTAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358020,
+    "name": "PRINCIPIOS Y ESTRATEGIAS DE GESTION AMBIENTAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358021,
+    "name": "VALORACION ECONOMICA DEL AMBIENTE",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358022,
+    "name": "IMPLEMENTACION DE PROGRAMAS DE SANEAMIENTO AMBIENTAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358023,
+    "name": "IMPLEMENTACION DE PLANES DE MANEJO AMBIENTAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358024,
+    "name": "DEFINICION DE INDICADORES AMBIENTALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358025,
+    "name": "PROCESOS DE BIORREMEDIACION",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358026,
+    "name": "CARACTERIZACION DE FENOMENOS METEOROLOGICOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358027,
+    "name": "TOXICOLOGOA AMBIENTAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358028,
+    "name": "EDUCACION AMBIENTAL",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358029,
+    "name": "SELECCION DE TECNOLOGIAS LIMPIAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358030,
+    "name": "MANEJO DE RECURSOS NATURALES Y ENERGETICOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358031,
+    "name": "SISTEMAS DE INFORMACION GEOGRAFICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358032,
+    "name": "EVALUACION DE IMPACTO AMBIENTAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358033,
+    "name": "REALIZACION DE AUDITORIAS E INTERVENTORIAS AMBIENTALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358034,
+    "name": "EVALUACION DE RIESGOS AMBIENTALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358036,
+    "name": "MODELACION AMBIENTAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358037,
+    "name": "ESTRUCTURA ADMINISTRATIVA Y LEGAL DEL TEMA AMBIENTAL EN EL PAIS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358038,
+    "name": "DISENO DE PLANTAS Y EQUIPOS EN INGENIERIA AMBIENTAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358039,
+    "name": "DISENO DE PLANTAS DE TRATAMIENTO DE AGUAS RESIDUALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358040,
+    "name": "DISENO DE PLANTAS POTABILIZADORAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358041,
+    "name": "MANEJO DE AGUAS RESIDUALES EN PEQUENAS COMUNIDADES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358042,
+    "name": "MANEJO DE AGUAS SUBTERRANEAS",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358043,
+    "name": "RECUPERACION Y REUTILIZACION DE RESIDUOS SOLIDOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358045,
+    "name": "DISENO DE RELLENOS SANITARIOS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358046,
+    "name": "BIOTRATAMIENTO DE RESIDUOS PELIGROSOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358047,
+    "name": "ANALISIS DEL CICLO DE VIDA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358048,
+    "name": "DEFINICION Y EVALUACION DE INDICADORES DE ECOEFICIENCIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358049,
+    "name": "MEDIDAS OPERATIVAS PARA LA ECOEFICIENCIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358050,
+    "name": "SISTEMA DE GESTION AMBIENTAL EMPRESARIAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358051,
+    "name": "MERCADOS ENERGETICOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358052,
+    "name": "ENERGIA EOLICA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358053,
+    "name": "ENERGIA A PARTIR DE BIOMASA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358054,
+    "name": "ENERGIA SOLAR TERMICA Y FOTOVOLTAICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358055,
+    "name": "RED DE MONITOREO Y CALIDAD DEL AIRE",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358056,
+    "name": "TRANSPORTE Y DISPERSION DE CONTAMINANTES",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358057,
+    "name": "SEGUIMIENTO Y CONTROL DE EMISIONES ATMOSFERICAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358058,
+    "name": "CONTROL Y MEDICION DEL RUIDO",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358080,
+    "name": "ELEMENTOS DE DIBUJO TECNICO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358081,
+    "name": "BALANCE MASICO Y NEREGETICO EN PROB. AMBIENTALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358082,
+    "name": "FUENTES DE ENERGÍA ALTERNATIVAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 358115,
+    "name": "FISICOQUIMICA AMBIENTAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 40003,
+    "name": "COMPETENCIAS COMUNICATIVAS( PREGRADO)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 40004,
+    "name": "INCLUSION SOCIAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401102,
+    "name": "LINGUISTICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401103,
+    "name": "EPISTEMOLOGIA DE LA COMUNICACION",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401104,
+    "name": "TEORIA DE LA COMUNICACION",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401105,
+    "name": "ESTUDIOS CULTURALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401106,
+    "name": "HISTORIA DE LA COMUNICACION",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401107,
+    "name": "NARRATIVAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401108,
+    "name": "SEMIOTICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401109,
+    "name": "COMUNICACION Y CAMBIO SOCIAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401110,
+    "name": "GENEROS PERIODISTICOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401112,
+    "name": "PRODUCCION DE MEDIOS,PRENSA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401113,
+    "name": "PRODUCCION DE MEDIOS,RADIO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401114,
+    "name": "PRODUCCION DE MEDIOS,VIDEOTV",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401115,
+    "name": "PRODUCCION DE MULTIMEDIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401117,
+    "name": "FOTOGRAFIA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401118,
+    "name": "PUBLICIDAD PARA COMUNICACION SOCIAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401119,
+    "name": "COMUNICACION ORGANIZACIONAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401120,
+    "name": "PRACTICAS PROFESIONALES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401121,
+    "name": "ETNOGRAFIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401122,
+    "name": "INVESTIGACION CUALITATIVA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401123,
+    "name": "PROYECTO DE DESARROLLO SOCIAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401125,
+    "name": "LEGISLACION DE LA COMUNICACION",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401126,
+    "name": "ETICA Y COMUNICACION",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401127,
+    "name": "LITERATURA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401128,
+    "name": "SOCIOLOGIA DE LA CULTURA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401198,
+    "name": "CINE",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401201,
+    "name": "FILOSOFIA NO OCCIDENTAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401202,
+    "name": "FILOSOFIA ANTIGUA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401203,
+    "name": "FILOSOFIA MEDIEVAL",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401204,
+    "name": "FILOSOFIA MODERNA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401205,
+    "name": "FILOSOFIA CONTEMPORANEA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401207,
+    "name": "PENSAMIENTO FILOSOFICO LATINOAMERICANO",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401209,
+    "name": "METAFISICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401210,
+    "name": "ESTETICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401217,
+    "name": "SEMINARIO DE AUTOR: FILOSOFIA CONTEMPORANEA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 401219,
+    "name": "SEMINARIO DE AUTOR: PENSAMIENTO FILOSOFICO LATINOA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401224,
+    "name": "HERMENEUTICA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401302,
+    "name": "TEORIAS DEL APRENDIZAJE",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401304,
+    "name": "EVALUACION",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401305,
+    "name": "DIDACTICA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401306,
+    "name": "LA EDUCACION EN COLOMBIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401307,
+    "name": "TEORIAS CURRICULARES",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401404,
+    "name": "ETNOHISTORIA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401410,
+    "name": "ORALIDAD Y ESCRITURA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401415,
+    "name": "ADMINISTRACION COMUNITARIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401416,
+    "name": "DESARROLLO COMUNITARIO Y PROYECTO DE VIDA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401421,
+    "name": "COMUNICACION NO VERBAL Y CULTURA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401422,
+    "name": "MODELOS ECONOMICOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401430,
+    "name": "PRACTICA PEDAGOGICA 1. LIC ETNOEDUCACION",
+    "credits": "Curso Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401431,
+    "name": "PRACTICA PEDAGOGICA 2. LIC ETNOEDUCACION",
+    "credits": "Curso Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401432,
+    "name": "ETNOGRAFIA (LIC.ETNOEDUCACION)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401503,
+    "name": "MORFOFISIOLOGIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401504,
+    "name": "PSICOFISIOLOGIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401508,
+    "name": "APRENDIZAJE",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401510,
+    "name": "PERSONALIDAD",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401513,
+    "name": "PSICOLOGIA DE LOS GRUPOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401514,
+    "name": "PSICOLOGIA SOCIAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401517,
+    "name": "PSICOMETRIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401518,
+    "name": "PSICODIAGNOSTICO DE LA PERSONALIDAD",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401519,
+    "name": "PSICODIAGNOSTICO DE LAS FUNCIONES COGNOSCITIVAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401523,
+    "name": "FENOMENOLOGIA DE LAS REACCIONES QUIMICAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401525,
+    "name": "PSICOLOGIA COMUNITARIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401526,
+    "name": "PARADIGMAS DE LA INVESTIGACION SOCIAL",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401534,
+    "name": "ANALISIS ORGANICO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401535,
+    "name": "INORGANICA INDUSTRIAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401536,
+    "name": "QUIMICA INDUSTRIAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401537,
+    "name": "SINTESIS ORGANICA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401538,
+    "name": "ELECTROQUIMICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 401539,
+    "name": "ESPECTROSCOPIA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401541,
+    "name": "RADIOQUÍMICA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401542,
+    "name": "CROMATOGRAF?A",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401543,
+    "name": "QUIMICA AGRICOLA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401544,
+    "name": "INVESTIGACION APLICADA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401545,
+    "name": "CATALISIS AMBIENTAL",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401547,
+    "name": "ANALISIS INDUSTRIAL",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401548,
+    "name": "TECNOLOGIA QUIMICA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401549,
+    "name": "QUIMICA AMBIENTAL (EVALUACIóN Y CONTROL DE CONTAMINACIóN )",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401551,
+    "name": "PRODUCTOS NATURALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401552,
+    "name": "QUIMICA DE AROMAS",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401560,
+    "name": "OBSERVACIONES Y ENTREVISTAS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401582,
+    "name": "ESTRUCTURA MOLECULAR",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401583,
+    "name": "HIDROCARBUROS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401584,
+    "name": "QUIMICA CUANTICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401585,
+    "name": "REACCIONES QUIMICAS NATURALES",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401586,
+    "name": "NOMENCLATURA INORGANICA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401589,
+    "name": "CINETICA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401590,
+    "name": "ACIDOS CARBOXILICOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 401591,
+    "name": "ANALISIS CUANTITATIVO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I"
+  },
+  {
+    "code": 401596,
+    "name": "COMUNICACION Y EDUCACION",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403001,
+    "name": "HISTORIA DE LA PSICOLOGIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403002,
+    "name": "EPISTEMOLOGIA DE LA PSICOLOGIA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403004,
+    "name": "PERSONALIDAD (PLAN NUEVO)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403005,
+    "name": "PSICOFISIOLOGIA (PLAN NUEVO)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403006,
+    "name": "APRENDIZAJE (PLAN NUEVO)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403011,
+    "name": "OBSERVACION Y ENTREVISTA (PLAN NUEVO)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403012,
+    "name": "PSICOLOGIA EVOLUTIVA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403015,
+    "name": "PSICOPATOLOGIA Y CONTEXTOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403016,
+    "name": "PSICOMETRIA (PLAN NUEVO)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403019,
+    "name": "PSICOLOGIA SOCIAL (PLAN NUEVO)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403021,
+    "name": "MODELOS DE INTERVENCION EN PSICOLOGIA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403022,
+    "name": "PSICOLOGIA COMUNITARIA (PLAN NUEVO)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403023,
+    "name": "PARADIGMAS DE INVESTIGACION EN PSICOLOGIA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403024,
+    "name": "DIAGNOSTICOS PSICOLOGICOS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403025,
+    "name": "NEUROPSICOLOGIA (PLAN NUEVO)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403026,
+    "name": "ACCION PSICOSOCIAL Y EDUCACION",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403027,
+    "name": "ACCION PSICOSOCIAL Y FAMILIA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403028,
+    "name": "ACCION PSICOSOCIAL Y EN LA COMUNIDAD",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403029,
+    "name": "POLITICAS PUBLICAS Y DESARROLLO HUMANO",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "OPCION DE GRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403030,
+    "name": "ACCION PSICOSOCIAL Y CONTEXTO JURIDICO",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403031,
+    "name": "ACCION PSICOSOCIAL Y TRABAJO",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403032,
+    "name": "ACCION PSICOSOCIAL Y SALUD",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403033,
+    "name": "PSICOLOGIA POLITICA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 403037,
+    "name": "CIBERCULTURA",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 404082,
+    "name": "TRABAJO DE GRADO ( COMUNICACION)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 404085,
+    "name": "CONSTRUYENDO CIUDADANIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 405021,
+    "name": "VISUAL BASIC AVANZADO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 434206,
+    "name": "CATEDRA UNADISTA (E_LEARNING)",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": "434206B",
+    "name": "CATEDRA UNADISTA (E_LEARNING)",
+    "credits": "Curso Metodológico de 4 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 441011,
+    "name": "DIPLOMADO EN CONSTRUCCI",
+    "credits": "Curso Teórico de 10 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 444003,
+    "name": "CIENCIA, FILOSOFIA Y SOCIEDAD",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 446001,
+    "name": "CATEDRA DE ESTUDIOS AFROCOLOMBIANOS ",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 50010,
+    "name": "COMPETENCIAS COMUNICATIVAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 50011,
+    "name": "EDUCACION INCLUSIVA EN AMBIENTES DE APRENDIZAJE",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 503026,
+    "name": "TRABAJO DE GRADO(LICENCIATURA EN ETNOEDUCACION)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 511006,
+    "name": "FISICA GENERAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 540002,
+    "name": "LINEA DE PROFUNDIZACION EN SISTEMA DE PRODUCCION BOVINA DE CARNE",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 540004,
+    "name": "LINEA DE PROFUNDIZACION EN SISTEMA DE PRODUCCION PORCINO",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551001,
+    "name": "LENGUA MATERNA I",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551002,
+    "name": "LENGUA MATERNA II",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551003,
+    "name": "INTRODUCCION A LA LICENCIATURA EN INGLES COMO LENGUA EXTRANJERA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551004,
+    "name": "TEACHING ENGLISH TO ADOLESCENTS AND ADULTS",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551005,
+    "name": "METHODS OF TEACHING ENGLISH AS A FOREIGN LANGUAGE",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551006,
+    "name": "TECHNOLOGY IN TEACHING ENGLISH AS A FOREIGN LANGUAGE",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551007,
+    "name": "INTRO ENGLISH",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551008,
+    "name": "BASIC ENGLISH I",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551009,
+    "name": "BASIC ENGLISH II",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551010,
+    "name": "PRE-INTERMEDIATE ENGLISH",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551011,
+    "name": "INTERMEDIATE ENGLISH I",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551012,
+    "name": "INTERMEDIATE ENGLISH II",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551013,
+    "name": "ADVANCED ENGLISH I",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551014,
+    "name": "ADVANCED ENGLISH II",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551015,
+    "name": "ENGLISH CONVERSATION",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551016,
+    "name": "ACADEMIC WRITING",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551017,
+    "name": "PHONETICS AND PHONOLOGY",
+    "credits": "Curso Teórico/Práctico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551018,
+    "name": "FIRST AND SECOND LANGUAGE ACQUISITION AND LEARNING",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551019,
+    "name": "LANGUAGE FORMS AND FUNCTIONS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551020,
+    "name": "TESTING AND EVALUATION IN ELT",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551021,
+    "name": "MATERIALS DESIGN FOR VIRTUAL ENVIRONMENTS ",
+    "credits": "Curso Teórico/Práctico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551022,
+    "name": "MATERIALS DESIGN FOR  FACE TO FACE ENVIRONMENTS",
+    "credits": "Curso Teórico/Práctico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551023,
+    "name": "TEACHER DEVELOPMENT",
+    "credits": "Curso Teórico/Práctico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551024,
+    "name": "PEDAGOGICAL EXPERIENCE I",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551025,
+    "name": "PEDAGOGICAL EXPERIENCE II",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551026,
+    "name": "DIDACTICS OF ENGLISH",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551027,
+    "name": "EDUCATIONAL RESEARCH",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551028,
+    "name": "RESEARCH PROJECT",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551030,
+    "name": "EDUCATIONAL MANAGEMENT",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551040,
+    "name": "DIDACTICAS DIGITALES(NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551041,
+    "name": "CIBERCULTURA PARA POSGRADO(NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551042,
+    "name": "PEDAGOGIA EN ENTORNOS VIRTUALES(NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551043,
+    "name": "PERSPECTIVAS CULTURALES(NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551044,
+    "name": "APRENDIZAJE AUTONOMO EN LA EDUCACION A DISTANCIA(NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551045,
+    "name": "EDUCACION INCLUSIVA(NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551047,
+    "name": "CONTEXTOS POLITICOS Y EDUCATIVOS EN AMERICA LATINA(NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551048,
+    "name": "PEDAGOGIAS DIDACTICAS CONTEMPORANEAS(NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "POSGRADO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551049,
+    "name": "PRACTICA PEDAGOGICA 1 ( LIC EN FILOSOFIANUEVO CURRICULO RESOL. 11163)",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551051,
+    "name": "FILOSOFIA ANTIGUA Y MEDIEVAL(NUEVO CURRICULO RESOL. 11163)",
+    "credits": "Curso Teórico de 6 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551054,
+    "name": "FILOSOFIA, PEDAGOGIA Y TECNOLOGIA(NUEVO CURRICULO RESOL.11163)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551055,
+    "name": "DIDACTICA DE LA FILOSOFIA(NUEVO CURRICULO RESOL. 11163)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551058,
+    "name": "PEDAGOGIA (NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 4 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551059,
+    "name": "METODOLOGIA Y TECNICAS DE INVESTIGACION (NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551060,
+    "name": "DISENO DE INSTRUCCION (NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551063,
+    "name": "LENGUA NATIVA 0(NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551068,
+    "name": "LEGISLACION EDUCATIVA EN COLOMBIA(NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551072,
+    "name": "MULTICULTURALIDAD E INTERCULTURALIDAD(NUEVO CURRICULO RESOL. 5218)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551080,
+    "name": "GRIEGO",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551082,
+    "name": "EDUCACIÓN FILOSÓFICA EN COLOMBIA",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551102,
+    "name": "INTRODUCCION A LA LICENCIATURA EN MATEMATICAS  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551103,
+    "name": "EPISTEMOLOGIA DE LAS MATEMATICAS  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551105,
+    "name": "LOGICA MATEMATICA  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551106,
+    "name": "PENSAMIENTO CRITICO  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551107,
+    "name": "MATEMATICA BASICA  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551108,
+    "name": "ALGEBRA, TRIGONOMETRIA Y GEOMETRIA ANALITICA  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551109,
+    "name": "CALCULO DIFERENCIAL  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551110,
+    "name": "CALCULO INTEGRAL   (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551111,
+    "name": "ALGEBRA LINEAL  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "DISCIPLINAR, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551114,
+    "name": "ENSE¾ANZA DE LA MATEMATICA CON EL USO DE LAS TIC  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551115,
+    "name": "DIDACTICA DE LAS MATEMATICAS  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551116,
+    "name": "MATEMATICAS Y CULTURA  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551117,
+    "name": "DISE¾OS CURRICULARES EN MATEMATICAS  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551121,
+    "name": "GEOMETRIA PLANA  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551122,
+    "name": "GEOMETRIA DEL ESPACIO  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 0 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 551123,
+    "name": "EVALUACION DE LAS MATEMATICAS  (LIC. EN MATEMATICAS)",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 712001,
+    "name": "MAPAS DE CONOCIMIENTO REGIONAL",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 712003,
+    "name": "RESILIENCIA",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80002,
+    "name": "PROYECTO DE VIDA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80005,
+    "name": "GUITARRA",
+    "credits": "Curso Metodológico de 1 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80007,
+    "name": "PROTOCOLO",
+    "credits": "Curso Metodológico de 1 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80008,
+    "name": "SOLUCI?N DE CONFLICTOS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80010,
+    "name": "TEATRO",
+    "credits": "Curso Metodológico de 1 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80011,
+    "name": "DISCAPACIDAD Y SEXUALIDAD",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80012,
+    "name": "DANZA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80017,
+    "name": "CATEDRA UNADISTA",
+    "credits": "Curso Metodológico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80018,
+    "name": "CREATIVIDAD PARA EL EMPRENDIMIENTO",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80019,
+    "name": "PENSAMIENTO EMPRENDEDOR",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80020,
+    "name": "ACTIVIDAD FISICA Y PARA LA SALUD",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 80022,
+    "name": "CATEDRA UNADISTA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 900001,
+    "name": "INGLES 0",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 900002,
+    "name": "INGLES I",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 900003,
+    "name": "INGLES II",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 900004,
+    "name": "INGLES III",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 900005,
+    "name": "INGLES IV",
+    "credits": "Curso Teórico/Práctico de 3 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90003,
+    "name": "COMPETENCIAS COMUNICATIVAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": "90003B",
+    "name": "COMPETENCIAS COMUNICATIVAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90004,
+    "name": "LOGICA MATEMATICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": "90004B",
+    "name": "LOGICA MATEMATICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90006,
+    "name": "HERRAMIENTAS INFORMATICAS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": "90006B",
+    "name": "HERRAMIENTAS INFORMATICAS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": "90006C",
+    "name": "HERRAMIENTAS INFORMATICAS",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90007,
+    "name": "CULTURA POLITICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 900072,
+    "name": "CULTURA POLITICA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90008,
+    "name": "INGLES I",
+    "credits": "Curso Teórico/Práctico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90011,
+    "name": "INTRODUCCION A LA ZOOTECNIA",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90012,
+    "name": "INTRODUCCION A LA ADMINISTRACION DE EMPRESAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90013,
+    "name": "INTRODUCCION A LA INGENIERIA DE SISTEMAS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90014,
+    "name": "INTRODUCCION A LA INGENIERIA DE ALIMENTOS",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90015,
+    "name": "INTRODUCCION A LA REGENCIA EN FARMACIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90017,
+    "name": "INTRODUCCION A LA COMUNICACION SOCIAL",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90018,
+    "name": "INTRODUCCION A LA FILOSOFIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90019,
+    "name": "INTRODUCCION A LA LICENCIATURA EN FILOSOFIA",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90020,
+    "name": "INTRODUCCION A LA LICENCIATURA EN ETNOEDUCACION",
+    "credits": "Curso Teórico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90021,
+    "name": "INGLES II",
+    "credits": "Curso Teórico/Práctico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90030,
+    "name": "INGLES 0",
+    "credits": "Curso Teórico/Práctico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": "90030B",
+    "name": "INGLES 0",
+    "credits": "Curso Teórico/Práctico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90121,
+    "name": "INGLES III",
+    "credits": "Curso Teórico/Práctico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90168,
+    "name": "AUDITORIA DE SISTEMAS",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90169,
+    "name": "INTELIGENCIA ARTIFICIAL",
+    "credits": "Curso Teórico de 3 créditos",
+    "period": "ELECTIVO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90170,
+    "name": "INGLES IV",
+    "credits": "Curso Teórico/Práctico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  },
+  {
+    "code": 90178,
+    "name": "SISTEMAS DIGITALES SECUENCIALES",
+    "credits": "Curso Metodológico de 2 créditos",
+    "period": "BASICO, período académico 2015 I (16-01)"
+  }
+]}

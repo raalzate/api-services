@@ -1,0 +1,7 @@
+version: v3
+build: 10
+description: Servicio para obtener el calendario de la Universidad UNAD
+#params
+service_agenda: http://datateca.unad.edu.co/contenidos/agendas
+formato: html
+client_id: unadcalendar
